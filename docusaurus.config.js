@@ -9,6 +9,7 @@ const config = {
   title: "r/realme Community",
   tagline: "The community for realme users.",
   url: "https://realme.pages.dev/",
+  trailingSlash: true,
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -16,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "raymond", // Usually your GitHub org/user name.
+  organizationName: "raymond-1227", // Usually your GitHub org/user name.
   projectName: "rmcommunity", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
