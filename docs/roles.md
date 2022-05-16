@@ -8,29 +8,25 @@ sidebar_position: 2
 
 | Type    | Description                                                                             |
 |---------|-----------------------------------------------------------------------------------------|
-| Devic   | Self roles to show which device family you're in, obtainable via **#obtainable-roles**. |
+| Device  | Self roles to show which device family you're in, obtainable via **#obtainable-roles**. |
 | Levels  | The more you talk, the higher your level.                                               |
 | Special | Given to people who have been helpful, or some roles as a joke.                         |
 | Booster | For people who boosted our server.                                                      |
 
 
-## Levels
+## Levels & Perks
 
-| Roles     | Requirements |
-|-----------|--------------|
-| DART      | Level 5      |
-| SuperDART | Level 20     |
-| UltraDART | Level 50     |
-| MagDART   | Level 80     |
+| Roles     | Requirements     | Perks (Stacked)                                            |
+|-----------|------------------|------------------------------------------------------------|
+| DART      | Level 5          | Access to **#politics** channel.                           |
+| SuperDART | Level 20         | Access to **#lounge** channel.                             |
+| UltraDART | Level 50         | Currently cosmetic only.                                   |
+| MagDART   | Level 80         | Currently cosmetic only.                                   |
+| Booster   | Boost the server | Access to **#lounge**, and hoisted in member list.         |
 
-**Booster Role**
-You'll receive a role named @Server Booster while boosting the server.
+## Misc Roles
 
-**Special Role**
-We don't normally give out @Special User, but mostly to thank people who's not just active and being helpful to the community.
-The legendary role @Grass pretty much just proves that you touched grass IRL.
-
-**Member Rewards**
-- Members with @DART (and above) can access the #politics channel.
-- Members with @SuperDART (and above) or @Server Booster role can access the #lounge channel. (such uncreative reward, right?)
-@Server Booster members will also be on top of normal members on the members list.
+| Roles     | Requirements                                     |
+|-----------|--------------------------------------------------|
+| Special   | Being helpful to the community for a long while. |
+| Grass     | Send a proof that you touched grass IRL.         |
