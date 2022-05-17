@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Contribute the Website
+# Contribute
 
 Want to contribute to the documentation? Here's how!
 
