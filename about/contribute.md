@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Contribute the Website
 
-Want to contribute to the documentation? 
+Want to contribute to the documentation? Here's how!
 
 ## Requirements
 
@@ -19,4 +19,4 @@ Want to contribute to the documentation?
 3. Make pull request to the [original repository](https://github.com/raymond-1227/rmcommunity/).
 4. I will review your changes and update the documentation.
 
-Done!
+Done! Thanks for contributing to the documentation!

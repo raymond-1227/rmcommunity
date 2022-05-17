@@ -26,7 +26,7 @@ Read about the common roles on the community Discord server.
 | @MagDART   | Level 80         | Currently cosmetic only.                                   |
 | @Booster   | Boost the server | Access to **#lounge**, and hoisted in member list.         |
 
-## Misc Roles
+## Special Roles
 
 | Role       | Requirements                                     |
 |------------|--------------------------------------------------|

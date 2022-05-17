@@ -96,8 +96,8 @@ const config = {
             activeBaseRegex: `/about/`,
           },
           {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
+            href: "https://www.realme.com/",
+            label: "realme",
             position: "right",
           },
         ],
