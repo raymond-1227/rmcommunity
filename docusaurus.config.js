@@ -38,15 +38,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/raymond-1227/rmcommunity/edit/main/",
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/raymond-1227/rmcommunity/edit/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -55,13 +47,37 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "about",
+        path: "about",
+        routeBasePath: "about",
+        sidebarPath: require.resolve("./sidebars.js"),
+        editUrl: "https://github.com/raymond-1227/rmcommunity/edit/main/",
+      },
+    ],
+  ],
+
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+        docsDir: ["docs", "about"],
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
+        hideOnScroll: true,
         title: "r/realme Community",
         logo: {
-          alt: "My Site Logo",
+          alt: "realme Logo",
           src: "img/logo.svg",
         },
         items: [
@@ -70,6 +86,12 @@ const config = {
             docId: "rules",
             position: "left",
             label: "Docs",
+          },
+          {
+            to: "/about/contributors",
+            label: "About",
+            position: "left",
+            activeBaseRegex: `/about/`,
           },
           {
             href: "https://github.com/facebook/docusaurus",
@@ -85,7 +107,7 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
+                label: "Rules",
                 to: "/docs/rules",
               },
             ],
