@@ -2,34 +2,47 @@
 sidebar_position: 3
 ---
 
-# Channels
+# Categories and Channels
 
-Welcome to the Official r/Realme Discord Server. (Note, we do not represent as realme company's community, but we do have a large group of people here to discuss with you)
+Read about all our public categories and channels.
 
-r/realme is here to provide you a common space to discuss everything related to realme.
+## Categories
 
-1. **Pings** - You may ping staffs for an appropriate reason. *DO NOT* ping roles. Do not ping staffs for technical help, we do not represent realme employees, therefore we cannot provide technical helps but some options you may try. If you have problem verifying, DM @ModMail [=] instead of DM-ing mods.
+| Category          | Description                                                         |
+|-------------------|---------------------------------------------------------------------|
+| Info              | Server moderation related information for members to read about.    |
+| General           | Common discussions related channels.                                |
+| Device Discussion | Specific device family channels.                                    |
+| Device Resources  | Useful tips and resources about tweaking your device.               |
+| Misc              | Some other channels that doesn't fit in discussions.                |
+| Voice Chat        | Chat with our members, or any type of Discord activities on it.     |
+| Public Archives   | Channel archives that it might still be necessary to the community. |
 
-2. **NSFW** - Do not use an offensive profile picture or username. 
+## Text Channels
 
-3. **Insults** - Do not excessively attack other members. Excessive and malicious use of expletives are forbidden. Especially to our staff members.
-
-4. **Spam** - Do not spam messages in channels, nor acting stupid (e.g. ***YELLING*** in voice channels)
-
-4. **Impersonation** - Do not pretend to be another person. 
-
-5. **Doxxing** - Do not give out any personal information of anybody.
-
-6. **Advertisements** - Do not ask for or try to sell products of any kind. Permission must be requested from a staff member and must be shown upon request. Posting your own content such as videos or photos YOU have created are allowed, just don't use it as a form of self promotion. Do not cause a nuisance in the community, repeated complaints from several members will lead to a moderation action.
-
-7. **Bot Abuse** - Unless it fits within the conversation of the channel, use bot commands in the #bot-spam channel.
-
-9. **Illegal Software** - We do not tolerate any promotion or links of illegal softwares.
-
-10. **Rule Updates** - We update rules, and it is your responsibility to check them regularly. We do not accept appeals of "rules updated didn't know that it exists" or something related like that.
-
-11. **Use English** - We moderate the community in English, please refrain from using languages outside English, if you want languages besides English, consider using a thread.
-
-12. **We consider Discord ToS / Community Guidelines** - https://discord.com/terms/ / https://discord.com/guidelines/
-
-13. **Other** - Just because something isn't mentioned here, does not mean that it's allowed. Staff members have the rights to decide what is and what is not appropriate.
+| Channel                | Description                                                     |
+|------------------------|-----------------------------------------------------------------|
+| #welcome               | All new member join messages appear here.                       |
+| #rules                 | All rules that you should follow.                               |
+| #roles                 | Read about the common roles on the community Discord server.    |
+| #obtainable-roles      | Get device and other roles that fit your needs.                 |
+| #announcements         | Mostly about our server moderation changes and polls.           |
+| #general               | realme discussions only, otherwise it belongs to #off-topic.    |
+| #off-topic             | Any discussion besides realme.                                  |
+| #lounge                | A calm channel for our dedicated members.                       |
+| #memes                 | when the impostor is ***sus*** ok no                            |
+| #gallery               | Post your media taken with your device.                         |
+| #server-suggestions    | Suggest a change we should make on the server.                  |
+| #known-issues          | You can submit your device issues here for other users to know. |
+| #realme-*device-chats* | All device channels for a specific device.                      |
+| #resources             | Resources you can use for phone tweaking.                       |
+| #realme-ui-tips        | Tips for using your phone on realme UI.                         |
+| #account-safety        | Tips to prevent being scammed on Discord.                       |
+| #tech-news             | Share some tech news with the members.                          |
+| #politics              | The place to show the dark side of humanity.                    |
+| #starboard             | Top messages are pinned in here.                                |
+| #level-ups             | See who leveled up by chatting.                                 |
+| #old-resources         | Old resources but might still be useful for you.                |
+| #realme-3-series       | Archived chat messages for 3 series devices.                    |
+| #x2-pro-battery        | Battery reports of realme X3 Pro.                               |
+| #free-speech           | Removed due to having the same purpose of #off-topic.           |

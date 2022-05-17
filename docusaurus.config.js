@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "r/realme Community",
-  tagline: "The community for realme users.",
+  tagline: "The unofficial community for realme users.",
   url: "https://realme.pages.dev/",
   trailingSlash: true,
   baseUrl: "/",
@@ -65,6 +65,7 @@ const config = {
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
         hashed: true,
+        indexBlog: false,
         docsDir: ["docs", "about"],
       },
     ],
@@ -73,6 +74,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{name: 'realme', content: 'android, phone, realme, rooting, tweaking'}],
       navbar: {
         hideOnScroll: true,
         title: "r/realme Community",
@@ -88,7 +90,7 @@ const config = {
             label: "Docs",
           },
           {
-            to: "/about/contributors",
+            to: "/about/mods",
             label: "About",
             position: "left",
             activeBaseRegex: `/about/`,
@@ -104,11 +106,15 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Documentations",
             items: [
               {
                 label: "Rules",
                 to: "/docs/rules",
+              },
+              {
+                label: "About",
+                to: "/about/mods",
               },
             ],
           },
@@ -116,25 +122,25 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Official realme Community",
+                href: "https://c.realme.com/",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "Unofficial realme Subreddit",
+                href: "https://www.reddit.com/r/Realme/",
               },
               {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "Unofficial realme Discord",
+                href: "https://discord.gg/5D6UPMTdjy/",
               },
             ],
           },
           {
-            title: "More",
+            title: "Contribute",
             items: [
               {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                label: "Improve the Documentation",
+                href: "https://github.com/raymond-1227/rmcommunity/",
               },
             ],
           },
