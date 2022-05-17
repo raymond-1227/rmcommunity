@@ -8,6 +8,8 @@ Read about all our public categories and channels.
 
 ## Categories
 
+Learn more about the categories on the community Discord server.
+
 | Category          | Description                                                         |
 |-------------------|---------------------------------------------------------------------|
 | Info              | Server moderation related information for members to read about.    |
@@ -19,6 +21,8 @@ Read about all our public categories and channels.
 | Public Archives   | Channel archives that it might still be necessary to the community. |
 
 ## Text Channels
+
+Learn more about the purpose of the common text channels on the community Discord server.
 
 | Channel                | Description                                                     |
 |------------------------|-----------------------------------------------------------------|

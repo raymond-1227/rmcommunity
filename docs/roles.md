@@ -8,6 +8,8 @@ Read about the common roles on the community Discord server.
 
 ## Types
 
+Learn more about types of the common roles.
+
 | Type    | Description                                                                             |
 |---------|-----------------------------------------------------------------------------------------|
 | Devices | Self roles to show which device family you're in, obtainable via **#obtainable-roles**. |
@@ -18,6 +20,8 @@ Read about the common roles on the community Discord server.
 
 ## Levels & Perks
 
+Learn more about how levels and perks work.
+
 | Role       | Requirements     | Perks (Stacked)                                            |
 |------------|------------------|------------------------------------------------------------|
 | @DART      | Level 5          | Access to **#politics** channel.                           |
@@ -27,6 +31,8 @@ Read about the common roles on the community Discord server.
 | @Booster   | Boost the server | Access to **#lounge**, and hoisted in member list.         |
 
 ## Special Roles
+
+We sometimes give out special roles for people either because they're helpful or because it's a joke role.
 
 | Role       | Requirements                                     |
 |------------|--------------------------------------------------|
