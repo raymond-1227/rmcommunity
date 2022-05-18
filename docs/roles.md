@@ -32,7 +32,7 @@ Learn more about how levels and perks work.
 
 ## Special Roles
 
-We sometimes give out special roles for people either because they're helpful or because it's a joke role.
+We sometimes give out special roles for people either because they're helpful or it's a joke.
 
 | Role       | Requirements                                     |
 |------------|--------------------------------------------------|
