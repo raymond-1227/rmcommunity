@@ -46,6 +46,11 @@ Learn more about the purpose of the common text channels on the community Discor
 | #politics              | The place to show the dark side of humanity.                    |
 | #starboard             | Top messages are pinned in here.                                |
 | #level-ups             | See who leveled up by chatting.                                 |
+
+## Archived Channels
+
+| Channel                | Description                                                     |
+|------------------------|-----------------------------------------------------------------|
 | #old-resources         | Old resources but might still be useful for you.                |
 | #realme-3-series       | Archived chat messages for 3 series devices.                    |
 | #x2-pro-battery        | Battery reports of realme X2 Pro.                               |
