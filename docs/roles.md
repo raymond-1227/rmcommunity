@@ -34,7 +34,8 @@ Learn more about how levels and perks work.
 
 We sometimes give out special roles for people either because they're helpful or it's a joke.
 
-| Role       | Requirements                                     |
-|------------|--------------------------------------------------|
-| @Special   | Being helpful to the community for a long while. |
-| @Grass     | Send a proof that you touched grass IRL.         |
+| Role     | Requirements                                                  |
+|----------|---------------------------------------------------------------|
+| @Special | Being helpful to the community for a long while.              |
+| @Grass   | Send a proof that you touched grass IRL.                      |
+| @Janitor | Just somehow be in the community and maybe you will get one.  |
