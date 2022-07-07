@@ -31,7 +31,7 @@ Learn more about the purpose of the common text channels on the community Discor
 | #roles                 | Read about the common roles on the community Discord server.    |
 | #obtainable-roles      | Get device and other roles that fit your needs.                 |
 | #announcements         | Mostly about our server moderation changes and polls.           |
-| #general               | realme discussions only, otherwise it belongs to #off-topic.    |
+| #main                  | realme discussions only, otherwise it belongs to #off-topic.    |
 | #off-topic             | Any discussion besides realme.                                  |
 | #lounge                | A calm channel for our dedicated members.                       |
 | #memes                 | when the impostor is ***sus*** ok no                            |

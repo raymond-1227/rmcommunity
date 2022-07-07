@@ -22,20 +22,21 @@ Learn more about types of the common roles.
 
 Learn more about how levels and perks work.
 
-| Role       | Requirements     | Perks (Stacked)                                            |
-|------------|------------------|------------------------------------------------------------|
-| @DART      | Level 5          | Access to **#politics** channel.                           |
-| @SuperDART | Level 20         | Access to **#lounge** channel.                             |
-| @UltraDART | Level 50         | Currently cosmetic only.                                   |
-| @MagDART   | Level 80         | Currently cosmetic only.                                   |
-| @Booster   | Boost the server | Access to **#lounge**, and hoisted in member list.         |
+| Role       | Requirements     | Perks (Stacked)                                    |
+|------------|------------------|----------------------------------------------------|
+| @DART      | Level 5          | Access to **#politics** channel.                   |
+| @SuperDART | Level 20         | Access to **#lounge** channel.                     |
+| @UltraDART | Level 50         | Currently cosmetic only.                           |
+| @MagDART   | Level 80         | Access to some useless server insights.            |
+| @Booster   | Boost the server | Access to **#lounge**, and hoisted in member list. |
 
 ## Special Roles
 
 We sometimes give out special roles for people either because they're helpful or it's a joke.
 
-| Role     | Requirements                                                  |
-|----------|---------------------------------------------------------------|
-| @Special | Being helpful to the community for a long while.              |
-| @Grass   | Send a proof that you touched grass IRL.                      |
-| @Janitor | Just somehow be in the community and maybe you will get one.  |
+| Role         | Requirements                                                 |
+|--------------|--------------------------------------------------------------|
+| @Special     | Being helpful to the community for a long while.             |
+| @Grass       | Send a proof that you touched grass IRL.                     |
+| @Weird Pizza | Send a proof that you ate pineapple / corn pizza.            |
+| @Janitor     | Just somehow be in the community and maybe you will get one. |

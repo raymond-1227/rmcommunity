@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Important Messages
+# FAQs
 
 Read the messages that we don't want to repeat again and again.
 
