@@ -15,12 +15,6 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "raymond-1227", // Usually your GitHub org/user name.
-  projectName: "rmcommunity", // Usually your repo name.
-  deploymentBranch: "cf-pages", // The branch where your website will be deployed.
-
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -60,21 +54,15 @@ const config = {
     ],
   ],
 
-  themes: [
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      {
-        hashed: true,
-        indexBlog: false,
-        docsDir: ["docs", "about"],
-      },
-    ],
-  ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      metadata: [{name: 'realme', content: 'android, phone, realme, rooting, tweaking'}],
+      metadata: [
+        {
+          name: "realme",
+          content: "android, phone, realme, rooting, tweaking",
+        },
+      ],
       navbar: {
         hideOnScroll: true,
         title: "r/realme Community",
@@ -145,7 +133,25 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} r/realme Community. Not associated with realme.`,
+        copyright: `Copyright © ${new Date().getFullYear()} r/realme Community. NOT associated with realme officially.`,
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: "YOUR_APP_ID",
+
+        // Public API key: it is safe to commit it
+        apiKey: "YOUR_SEARCH_API_KEY",
+
+        indexName: "YOUR_INDEX_NAME",
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: Algolia search parameters
+        searchParameters: {},
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: "search",
       },
       prism: {
         theme: lightCodeTheme,

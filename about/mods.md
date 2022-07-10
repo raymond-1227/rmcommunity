@@ -15,6 +15,6 @@ This is the list of people who have been working in the moderation team.
 ## Discord Mod
 
 - [HarryPieri#6388](https://www.reddit.com/user/iModSomeSubs/) (Owner)
-- [Raymond#2829](https://raymond-1227.github.io/)
+- [Raymond#2829](https://raymond-1227.github.io/social/)
 - Rennsport#6206
 - hakimi#2335

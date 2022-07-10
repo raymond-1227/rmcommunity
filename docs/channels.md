@@ -54,4 +54,4 @@ Learn more about the purpose of the common text channels on the community Discor
 | #old-resources         | Old resources but might still be useful for you.      |
 | #realme-3-series       | Archived chat messages for 3 series devices.          |
 | #x2-pro-battery        | Battery reports of realme X2 Pro.                     |
-| #free-speech           | Removed due to having the same purpose of #off-topic. |
+| #free-speech           | Removed due to having the same purpose of **#off-topic**. |

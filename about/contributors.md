@@ -6,5 +6,5 @@ sidebar_position: 2
 
 All our contributors who helped building the documentation website.
 
-- [Raymond](https://raymond-1227.github.io/)
-- [dumpy](https://dumpyy.xyz/)
+- [Raymond](https://github.com/raymond-1227/)
+- [dumpy](https://github.com/dumpydev/)
