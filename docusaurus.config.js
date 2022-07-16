@@ -137,12 +137,12 @@ const config = {
       },
       algolia: {
         // The application ID provided by Algolia
-        appId: "YOUR_APP_ID",
+        appId: "L8B5EEGHVG",
 
         // Public API key: it is safe to commit it
-        apiKey: "YOUR_SEARCH_API_KEY",
+        apiKey: "c712895dcc17ef027437c90905a3b4bb",
 
-        indexName: "YOUR_INDEX_NAME",
+        indexName: "rm-search",
 
         // Optional: see doc section below
         contextualSearch: true,
