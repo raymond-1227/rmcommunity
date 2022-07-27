@@ -35,6 +35,7 @@ _Disclaimer: we do not represent as realme company's community, but we do have a
 6. **Doxxing** - Do not give out any personal information of anybody.
 7. **Advertisements** - Do not ask for or try to sell products of any kind. Permission must be requested from a staff member and must be shown upon request. Posting your own content such as videos or photos YOU have created are allowed, just don't use it as a form of self promotion. Do not cause a nuisance in the community, repeated complaints from several members will lead to a moderation action.
 8. **Repetitive Question** - Do not ask the same question in multiple channels.
+9. **Off Topic** - Use the proper channels for discussion. (e.g. You may only discuss political topics in #politics)
 9. **Bot Abuse** - Unless it fits within the conversation of the channel, use bot commands in the #bot-spam channel.
 10. **Illegal Software** - We do not tolerate any promotion or links of illegal softwares.
 11. **Rule Updates** - We update rules, and it is your responsibility to check them regularly. We do not accept appeals of "rules updated didn't know that it exists" or something related like that.
