@@ -40,5 +40,5 @@ _Disclaimer: we do not represent as realme company's community, but we do have a
 11. **Illegal Software** - We do not tolerate any promotion or links of illegal softwares.
 12. **Rule Updates** - We update rules, and it is your responsibility to check them regularly. We do not accept appeals of "rules updated didn't know that it exists" or something related like that.
 13. **Use English** - We moderate the community in English, please refrain from using languages outside English.
-14. **We consider Discord ToS / Community Guidelines** - <https://discord.com/terms/> / <https://discord.com/guidelines/>j
+14. **We consider Discord ToS / Community Guidelines** - <https://discord.com/terms/> / <https://discord.com/guidelines/>
 15. **Other** - Just because something isn't mentioned here, does not mean that it's allowed. Staff members have the rights to decide what is and what is not appropriate.
