@@ -53,6 +53,22 @@ const config = {
       },
     ],
   ],
+  
+  themes: [
+    // ... Your other themes.
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
+        // language: ["en", "zh"],
+        // ```
+      },
+    ],
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -134,24 +150,6 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} r/realme Community. NOT associated with realme officially.`,
-      },
-      algolia: {
-        // The application ID provided by Algolia
-        appId: "L8B5EEGHVG",
-
-        // Public API key: it is safe to commit it
-        apiKey: "c712895dcc17ef027437c90905a3b4bb",
-
-        indexName: "rm-search",
-
-        // Optional: see doc section below
-        contextualSearch: true,
-
-        // Optional: Algolia search parameters
-        searchParameters: {},
-
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: "search",
       },
       prism: {
         theme: lightCodeTheme,
