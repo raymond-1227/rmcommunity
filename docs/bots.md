@@ -19,10 +19,10 @@ Bots which are being used on server!
 | CrossLink#3412      | Prevents malicious/unsafe URLs being posted. You can see it by reaction under URL message.          |    /    |    
 
 # Special bots
-Bots which are specifically made for server/bots with this server-only functions
+Bots which are specifically made for server/bots with this server-only functions.
 
-| Bot                     | Description/Use                                                                                        | Prefix  |
-|-------------------------|--------------------------------------------------------------------------------------------------------|---------|
-| hackerman14#5434        | Fun commands and few server-specific features. Developed by [Raymond](https://raymondhsu.xyz)          |      /  |
-| realmeme SuperFART#7042 | Android/RMUI tweaking and rooting stuff mostly. Originally created by [MrJeeves](https://davwheat.dev/), currently continued by [Raymond](https://raymondhsu.xyz) |   /     |
+| Bot                     | Description/Use                                 | Prefix  |
+|-------------------------|-------------------------------------------------|---------|
+| hackerman14#5434        | Fun commands and few server-specific features.  |    /    |
+| realmeme SuperFART#7042 | Android/RMUI tweaking and rooting stuff mostly. |    /    |
 

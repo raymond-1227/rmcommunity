@@ -34,9 +34,12 @@ Learn more about how levels and perks work.
 
 We sometimes give out special roles for people either because they're helpful or it's a joke.
 
-| Role         | Requirements                                                 |
-|--------------|--------------------------------------------------------------|
-| @Special     | Being helpful to the community for a long while.             |
-| @Grass       | Send a proof that you touched grass IRL.                     |
-| @Weird Pizza | Send a proof that you ate pineapple / corn pizza.            |
-| @Janitor     | Just somehow be in the community and maybe you will get one. |
+| Role                | Requirements                                                 |
+|---------------------|--------------------------------------------------------------|
+| @Special            | Being helpful to the community for a long while.             |
+| @Grass              | Send a proof that you touched grass IRL.                     |
+| @Weird Pizza        | Send a proof that you ate pineapple / corn pizza.            |
+| @Janitor            | Just somehow be in the community and maybe you will get one. |
+| @Coffist            | Hate towards drinking coffee. (without insulting others)     |
+| @Batterist          | Always having low percentage on your phone screenshots.      |
+| @Samsung Ambassador | Being an ultimate Samsung fanboy.                            |
