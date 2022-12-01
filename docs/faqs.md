@@ -10,7 +10,7 @@ Read the messages that we don't want to repeat again and again.
 
 There is no, absolute **0** realme staff here, so please stop pinging staff members about your device issues, we don't represent as realme official, we are here to help and keep the community moderated.
 
-## OMG RESPOND TO MY MESSAGES NOW, you know what I'm leaving this server
+## OMG RESPOND TO MY MESSAGES NOW, you know what I'm leaving this server!!!
 
 Please note that response to your question might be late as people that has the answer might be busy with their life, therefore please don't just leave the server after 5 mins waiting for response, time zones exist.
 
