@@ -14,7 +14,13 @@ This is the list of people who have been working in the moderation team.
 
 ## Discord Mod
 
-- [HarryPieri#6388](https://www.reddit.com/user/iModSomeSubs/) (Owner)
-- [Raymond#2829](https://raymond-1227.github.io/)
+- HarryPieri#6388 (Owner, known as iModSomeSubs)
+- Raymond#2829
 - Rennsport#6206
 - hakimi#2335
+
+## Minecraft Mod
+
+- skeppylol (Known as Raymond)
+- solmization (Known as dumpy)
+- matejmajny
