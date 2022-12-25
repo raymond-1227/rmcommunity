@@ -28,8 +28,6 @@ Stop asking if it's safe to update your phone. We just don't care about your dev
 
 realme is also one of the companies that has the slowest update rollout speed, so if you receive update, **just don't hesitate and UPDATE.** Also realme releases multiple phones per year, so not everyone knows if your device has bugs or issues, everyone suffers from software bugs, you're not the special one with a ton of gaming performance drop or fast draining batteries, literally a lot of people here does.
 
-Consider using our device discussions to talk about your device issues, we are here to help you.
-
 ## How do you spell "realme", especially the capitalization?
 
 realme mostly use "realme" without any capitalizations.
