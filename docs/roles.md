@@ -43,3 +43,4 @@ We sometimes give out special roles for people either because they're helpful or
 | @Coffist            | Hate towards drinking coffee. (without insulting others)     |
 | @Chargist           | Always having low percentage on your phone screenshots.      |
 | @Samsung Ambassador | Being an ultimate Samsung fanboy.                            |
+| @Apple Ambassador   | Being an ultimate Apple fanboy.                              |
