@@ -1,0 +1,42 @@
+{
+  "link.title.Documentations": {
+    "message": "文章",
+    "description": "The title of the footer links column with title=Documentations in the footer"
+  },
+  "link.title.Community": {
+    "message": "社群",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Contribute": {
+    "message": "貢獻",
+    "description": "The title of the footer links column with title=Contribute in the footer"
+  },
+  "link.item.label.Rules": {
+    "message": "規則",
+    "description": "The label of footer link with label=Rules linking to /docs/rules"
+  },
+  "link.item.label.About": {
+    "message": "關於",
+    "description": "The label of footer link with label=About linking to /about/mods"
+  },
+  "link.item.label.Official realme Community": {
+    "message": "realme 官方社群",
+    "description": "The label of footer link with label=Official realme Community linking to https://c.realme.com/"
+  },
+  "link.item.label.Unofficial realme Subreddit": {
+    "message": "realme 非官方 Subreddit",
+    "description": "The label of footer link with label=Unofficial realme Subreddit linking to https://www.reddit.com/r/Realme/"
+  },
+  "link.item.label.Unofficial realme Discord": {
+    "message": "realme 非官方 Discord",
+    "description": "The label of footer link with label=Unofficial realme Discord linking to https://discord.gg/5D6UPMTdjy/"
+  },
+  "link.item.label.Improve the Documentation": {
+    "message": "改進文件",
+    "description": "The label of footer link with label=Improve the Documentation linking to https://github.com/raymond-1227/rmcommunity/"
+  },
+  "copyright": {
+    "message": "© 2023 r/realme 社群 版權所有。 本社群與 realme 官方並無任何關係。",
+    "description": "The footer copyright"
+  }
+}

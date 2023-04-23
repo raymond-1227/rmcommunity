@@ -19,8 +19,16 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: 'en',
+    locales: ['en', 'zh-Hant'],
+    localeConfigs: {
+      en: {
+        label: "English",
+      },
+      "zh-Hant": {
+        label: "繁體中文",
+      }
+    },
   },
 
   presets: [
@@ -102,6 +110,10 @@ const config = {
           {
             href: "https://www.realme.com/",
             label: "realme",
+            position: "right",
+          },
+          {
+            type: "localeDropdown",
             position: "right",
           },
         ],

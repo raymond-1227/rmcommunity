@@ -27,10 +27,10 @@ _Disclaimer: we do not represent as realme company's community, but we do have a
 
 ## Discord Rules
 
-1. **Pings** - You may ping staffs for an appropriate reason. *DO NOT* ping roles. Do not ping staffs for technical help, we do not represent realme employees, therefore we cannot provide technical helps but some options you may try. If you have problem verifying, DM @ModMail [=] instead of DM-ing mods.
+1. **Pings** - You may ping staffs for an appropriate reason. *DO NOT* ping roles. Do not ping staffs for technical help, we do not represent realme employees, therefore we cannot provide technical helps but some options you may try.
 2. **NSFW** - Do not use an offensive profile picture or username. 
 3. **Insults** - Do not excessively attack other members. Excessive and malicious use of expletives are forbidden. Especially to our staff members.
-4. **Spam** - Do not spam messages in channels, nor acting stupid (e.g. ***YELLING*** in voice channels)
+4. **Spam** - Do not spam messages in channels, nor acting stupid. (e.g. ***YELLING*** in voice channels)
 5. **Impersonation** - Do not pretend to be another person. 
 6. **Doxxing** - Do not give out any personal information of anybody.
 7. **Advertisements** - Do not ask for or try to sell products of any kind. Permission must be requested from a staff member and must be shown upon request. Posting your own content such as videos or photos YOU have created are allowed, just don't use it as a form of self promotion. Do not cause a nuisance in the community, repeated complaints from several members will lead to a moderation action.

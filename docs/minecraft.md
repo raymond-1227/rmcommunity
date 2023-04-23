@@ -23,6 +23,5 @@ We want to keep the survival server as anarchy as possible, but we still do not 
 6. No spamming.
 7. No racism.
 8. No sexism.
-9. No homophobia.
 
 Failing to follow these rules will result in an appropriate punishment.

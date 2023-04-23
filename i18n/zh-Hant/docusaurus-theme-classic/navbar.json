@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "r/realme 社群",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "文章",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.About": {
+    "message": "關於",
+    "description": "Navbar item with label About"
+  },
+  "item.label.realme": {
+    "message": "realme",
+    "description": "Navbar item with label realme"
+  }
+}

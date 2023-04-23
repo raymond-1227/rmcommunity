@@ -2,15 +2,15 @@
 sidebar_position: 3
 ---
 
-# Categories and Channels
+# 分類與頻道
 
-Read about all our public categories and channels.
+閱讀關於所有公開的分類與頻道。
 
-## Categories
+## 分類
 
-Learn more about the categories on the community Discord server.
+深入了解我們的 Discord 伺服器的分類。
 
-| Category          | Description                                                      |
+| 分類               | 說明                                                             |
 |-------------------|------------------------------------------------------------------|
 | Info              | Server moderation related information for members to read about. |
 | General           | Common discussions related channels.                             |
@@ -19,11 +19,11 @@ Learn more about the categories on the community Discord server.
 | Misc              | Some other channels that doesn't fit in discussions.             |
 | Voice Chat        | Chat with our members, or any type of Discord activities on it.  |
 
-## Text Channels
+## 文字頻道
 
-Learn more about the purpose of the common text channels on the community Discord server.
+深入了解我們的 Discord 伺服器的文字頻道以及它們的用途。
 
-| Channel                | Usage                                                                |
+| 頻道                    | 用途                                                                 |
 |------------------------|----------------------------------------------------------------------|
 | #welcome               | All new member join messages appear here.                            |
 | #rules                 | All rules that you should follow.                                    |
