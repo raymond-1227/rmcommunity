@@ -8,4 +8,4 @@ sidebar_position: 2
 
 - [Raymond](https://github.com/raymond-1227/)
 - [flandolf](https://github.com/flandolf/)
-- [Matej Majný](https://github.com/matejmajny/)
+- [Matthew](https://github.com/matejmajny/)
