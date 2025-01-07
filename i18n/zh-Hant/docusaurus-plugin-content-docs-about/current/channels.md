@@ -2,47 +2,77 @@
 sidebar_position: 3
 ---
 
-# 分類與頻道
+# 類別與頻道
 
-閱讀關於所有公開的分類與頻道。
+閱讀關於我們的分類及頻道。
 
-## 分類
+## 資訊類頻道
 
-深入了解我們的 Discord 伺服器的分類。
+Server moderation related information for members to read about.
 
-| 分類               | 說明                                                             |
-|-------------------|------------------------------------------------------------------|
-| Info              | Server moderation related information for members to read about. |
-| General           | Common discussions related channels.                             |
-| Tech Support      | Specific device family channels.                                 |
-| Device Resources  | Useful tips and resources about tweaking your device.            |
-| Misc              | Some other channels that doesn't fit in discussions.             |
-| Voice Chat        | Chat with our members, or any type of Discord activities on it.  |
+| 頻道              | Usage                                                               |
+| -------------------- | ------------------------------------------------------------------- |
+| #rules               | All rules that you should follow.                                   |
+| #roles               | Read about the common roles on the community Discord server.        |
+| #realme-news         | Read about news related to realme from GSMArena.                    |
+| #community-updates   | Mostly about our server moderation changes and polls.               |
+| #welcome             | All new member join messages appear here.                           |
+| #readme              | Just some information about the server that you should know.        |
+| #privileged-shitpost | Mostly where people with privileged roles talk about random things. |
 
-## 文字頻道
+# 一般頻道
 
-深入了解我們的 Discord 伺服器的文字頻道以及它們的用途。
+一般討論區的頻道。
 
-| 頻道                    | 用途                                                                 |
-|------------------------|----------------------------------------------------------------------|
-| #welcome               | All new member join messages appear here.                            |
-| #rules                 | All rules that you should follow.                                    |
-| #roles                 | Read about the common roles on the community Discord server.         |
-| #obtainable-roles      | Get device and other roles that fit your needs.                      |
-| #announcements         | Mostly about our server moderation changes and polls.                |
-| #server-suggestions    | Suggest a change we should make on the server.                       |
-| #realme                | realme discussions only, otherwise it belongs to **#off-topic**.     |
-| #general               | Any discussion besides realme.                                       |
-| #lounge                | A calm channel for our dedicated members. (requires @SuperDART role) |
-| #memes                 | when the impostor is ***sus*** ok no                                 |
-| #shotonrealme          | Post your media taken with your realme device.                       |
-| #device-issues         | Ask about the issue with your realme device.                         |
-| #purchase-advice       | Ask for opinions on buying new device.                               |
-| #tweaking              | Ask questions about advanced tweaking such as rooting.               |
-| #resources             | Resources you can use for phone tweaking.                            |
-| #realme-ui-tips        | Tips for using your phone on realme UI.                              |
-| #account-safety        | Tips to prevent being scammed on Discord.                            |
-| #tech-news             | Share some tech news with the members.                               |
-| #politics              | The place to show the dark side of humanity.                         |
-| #starboard             | Top messages are pinned in here.                                     |
-| #level-ups             | See who leveled up by chatting.                                      |
+| 頻道      | Usage                                                               |
+| ------------ | ------------------------------------------------------------------- |
+| #realme      | realme discussions only, otherwise it belongs to **#off-topic**.    |
+| #general     | Any discussion besides realme.                                      |
+| #haters-club | A club dedicated for people to blame realme.                        |
+| #lounge      | A calm channel for our dedicated members. (requires SuperDART role) |
+| #politics    | The place to show the dark side of humanity.                        |
+| #memes       | when the impostor is **_sus_** ok no                                |
+| #shotonbbk   | Post your media taken with your realme device.                      |
+| #setup       | Post your your device setup.                                        |
+
+## 技術支援頻道
+
+在技術支援頻道中可尋求有關您裝置的幫助。
+
+| Channel          | Usage                                                  |
+| ---------------- | ------------------------------------------------------ |
+| #device-issues   | Ask about the issue with your realme device.           |
+| #purchase-advice | Ask for opinions on buying new device.                 |
+| #tweaking        | Ask questions about advanced tweaking such as rooting. |
+
+## 其他頻道
+
+其他與討論較為無關的頻道。
+
+| 頻道             | Usage                                          |
+| ------------------- | ---------------------------------------------- |
+| #bot-spam           | Use bot commands in here.                      |
+| #starboard          | Top messages are pinned in here.               |
+| #level-ups          | See who leveled up by chatting.                |
+| #server-suggestions | Suggest a change we should make on the server. |
+
+## 資源頻道
+
+一些可能對某些人有幫助的資源。
+
+| 頻道         | Usage                                                           |
+| --------------- | --------------------------------------------------------------- |
+| #realme-ui-tips | Tips for using your phone on realme UI.                         |
+| #resources      | Some old resources that might still be helpful for some people. |
+| #account-safety | Tips to prevent being scammed on Discord.                       |
+
+## 語音頻道
+
+與伺服器成員聊天、聆聽音樂或玩遊戲。
+
+| 頻道      | Usage                                                                     |
+| ------------ | ------------------------------------------------------------------------- |
+| General      | General voice chat for everyone.                                          |
+| Music        | Listen to music with other members.                                       |
+| AFK          | Away from keyboard, you can stay here if you're not active.               |
+| realme Share | Just a Discord stage channel, we kept it because of the channel icon lol. |

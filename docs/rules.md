@@ -24,7 +24,6 @@ _Disclaimer: we do not represent as realme company's community, but we do have a
 6. **No Spamming** - Posting low-quality blog post or from non-authentic source is prohibited. This includes repetitive updates about new OTA updates, patches, etc.
 7. **English Submissions Only** - Since this is a global realme community, we only accept English submissions. Submissions in any non-English language will be removed at mods discretion.
 
-
 ## Discord Rules
 
 1. **Pings** - You may ping staffs for an appropriate reason. *DO NOT* ping roles. Do not ping staffs for technical help, we do not represent realme employees, therefore we cannot provide technical helps but some options you may try.
@@ -40,5 +39,5 @@ _Disclaimer: we do not represent as realme company's community, but we do have a
 11. **Illegal Software** - We do not tolerate any promotion or links of illegal softwares.
 12. **Rule Updates** - We update rules, and it is your responsibility to check them regularly. We do not accept appeals of "rules updated didn't know that it exists" or something related like that.
 13. **Use English** - We moderate the community in English, please refrain from using languages outside English.
-14. **We consider Discord ToS / Community Guidelines** - <https://discord.com/terms/> / <https://discord.com/guidelines/>
+14. **We consider Discord ToS / Community Guidelines** - [https://discord.com/terms/](https://discord.com/terms/) / [https://discord.com/guidelines/](https://discord.com/guidelines/)
 15. **Other** - Just because something isn't mentioned here, does not mean that it's allowed. Staff members have the rights to decide what is and what is not appropriate.

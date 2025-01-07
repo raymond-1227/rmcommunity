@@ -40,17 +40,5 @@ _免責聲明：我們與 realme 官方沒有任何關係，單純為使用者�
 11. **違法軟體** - We do not tolerate any promotion or links of illegal softwares.
 12. **規則更新** - We update rules, and it is your responsibility to check them regularly. We do not accept appeals of "rules updated didn't know that it exists" or something related like that.
 13. **使用英文** - We moderate the community in English, please refrain from using languages outside English.
-14. **Discord ToS / Community Guidelines** - <https://discord.com/terms/> / <https://discord.com/guidelines/>
+14. **Discord 服務條款 / 社群準則** - [https://discord.com/terms/](https://discord.com/terms/) / [https://discord.com/guidelines/](https://discord.com/guidelines/)
 15. **其他** - Just because something isn't mentioned here, does not mean that it's allowed. Staff members have the rights to decide what is and what is not appropriate.
-
-## Minecraft 伺服器規則
-
-我們想要保持伺服器的生存模式盡量自由，但仍請遵守下列規定：
-
-1. 禁止破壞他人的建築。
-2. 禁止搶劫他人的物品。
-3. 禁止使用外掛程式。
-5. 禁止打廣告。
-6. 禁止洗版。
-7. 禁止種族歧視。
-8. 禁止性別歧視。
