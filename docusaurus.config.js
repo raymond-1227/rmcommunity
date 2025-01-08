@@ -102,7 +102,7 @@ const config = {
             label: "Docs",
           },
           {
-            to: "/about/mods",
+            to: "/about/leadership",
             label: "About",
             position: "left",
             activeBaseRegex: `/about/`,
@@ -130,7 +130,7 @@ const config = {
               },
               {
                 label: "About",
-                to: "/about/mods",
+                to: "/about/leadership",
               },
             ],
           },
@@ -147,7 +147,7 @@ const config = {
               },
               {
                 label: "Unofficial realme Discord",
-                href: "https://discord.gg/5D6UPMTdjy/",
+                href: "https://discord.gg/5D6UPMTdjy",
               },
             ],
           },
